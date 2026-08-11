@@ -1,0 +1,17 @@
+.title-image{
+    background-color: red;  
+}
+.image{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    object-position: center;
+    border: 2px red solid
+}
+.image-contain{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    object-position: center;
+    border: 2px red solid
+}
